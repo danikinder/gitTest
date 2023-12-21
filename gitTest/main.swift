@@ -12,3 +12,5 @@ for _ in 0...10 {
 }
 
 print("Gleb daun")
+
+print("warning")
