@@ -5,4 +5,8 @@
 //  Created by Daniil Beletskyi on 21/12/2023.
 //
 
-print("Gleb Loh")
+var gleb = "Gleb Log"
+
+for _ in 0...10 {
+    print(gleb)
+}
